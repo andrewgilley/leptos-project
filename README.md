@@ -1,1 +1,1 @@
-# leptos-project
+# Leptos Project
